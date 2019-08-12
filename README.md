@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Flutter Calculator is similar to other calculator and it is very simple calculator and this is for solve the calculation. This project used Flutter and Dart language. and
 
 ## Getting Started
 
